@@ -1,0 +1,97 @@
+.navbar{
+    color: purple;
+    /* padding-left: 50px; */
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .nav{
+     background-color:rgb(233, 192, 217);
+ }
+ body{
+     background-size: 1400px 700px;
+ }
+ .form-group{
+     padding-right: 400px;
+     padding-left: 400px;
+     padding-top: 35px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: purple;
+ }
+ button{
+     margin-top: 50px;
+     margin-left: 630px;
+     background-color: rgb(233, 192, 217);
+     border-radius: 8px;
+     padding: 5px 15px;
+     border:2px solid purple;
+     font-style: italic;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color:rebeccapurple;
+ }
+ button:hover{
+     color: black;
+ }
+ #logout{
+     padding-left:10 px;
+ }
+ #login{
+     padding-left: 605px;
+ }
+ a{
+     font-size: x-large;
+ }
+ a:hover{
+     color:black;
+     text-decoration: none;
+ }
+ .form-control{
+     border:2px solid purple;
+ }
+ #log{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-style: italic;
+     text-align: center;
+ }
+ #home{
+     padding-left: 1000px;
+ }
+ #page{
+      font-style: oblique;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      padding-top: 50px;
+      color: purple;
+      text-align: center;
+ }
+ .bar{
+     font-style: italic;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: purple;
+     padding-left: 25px;
+ }
+ #out{
+     padding-left: 1200px;
+ }
+ table{
+   margin-top: 30px;
+ }
+ #list{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: purple;
+     font-style: italic;
+     padding-top: 20px;
+     text-align: center;
+ }
+ #pass{
+     color: purple;
+     margin-left: 615px;
+     font-size: medium;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
